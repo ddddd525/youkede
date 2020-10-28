@@ -7,6 +7,9 @@ git remote add origin 仓库地址
 git remote -v
 查看本地仓库是否成功绑定到GitHub
 
+git remote remove origin
+解除绑定
+
 git add -A
 提交工程的第一步
 
